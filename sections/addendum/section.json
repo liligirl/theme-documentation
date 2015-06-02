@@ -1,0 +1,32 @@
+{	
+	"id":"addendum",
+	"translations":
+	{
+		"en":"Addendum",
+		"ru":"Дополнение"
+	},
+	"articles":
+	[		
+		{
+			"id":"cookies",
+			"translations":{
+				"en":"Cookies",
+				"ru":"Cookies"
+			}
+		},
+		{
+			"id":"documentation",
+			"translations":{
+				"en":"Documentation",
+				"ru":"Документация"
+			}
+		},
+		{
+			"id":"google-font",
+			"translations":{
+				"en":"Google Font",
+				"ru":"Google Шрифты"
+			}
+		}		
+	]
+}
