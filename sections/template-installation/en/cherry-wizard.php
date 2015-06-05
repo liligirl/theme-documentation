@@ -1,6 +1,6 @@
 <article id="cherry-wizard">
 			<h3>Automatic installation using Cherry Wizard</h3>
-			<p>Cherry Wizard is a plugin, developed to provide easy Cherry Framework themes installation to our customers. </p>
+			<p>Cherry Wizard is a plugin developed to provide easy Cherry Framework themes installation to our customers. </p>
 			<figure class="img-polaroid"><img src="img/wordpress/plugins_add_new.png" alt=""></figure>
 			<p class="muted text-center"></p>
 			<ol>
@@ -30,7 +30,7 @@
 			<p>Cherry Wizard will automatically install all required plugins. In case there are incompatibilities with server recommended settings, you will see the following notification:</p>
 			<figure class="img-polaroid"><img src="img/wordpress/1warning_notice.png" alt=""></figure>
 			<p>This message shows your current hosting server settings and recommended ones. Please contact your hosting to make your server compatible with Cherry Plugins. </p>
-			<p>You can check installation details of each plugin and component during the installation process.</p>
+			<p>You can check the installation details of each plugin and component during the installation process.</p>
 			<figure class="img-polaroid"><img src="img/wordpress/1Framework-install-complete.png" alt=""></figure>
 			<p>When the installation is complete, you will be automatically redirected to the next step.</p>
 		</article>

@@ -2,7 +2,7 @@
 			<h3>WordPress Engine installation</h3>
 			<p>Download the required WordPress version. You can check which release is required on the template preview page in the requirements list. Make sure you download the correct version.</p>
 			<ol>
-				<li>You can download the WordPress platform at the official website WordPress.org <a href="http://WordPress.org/download/" target="_blank"><strong>Download WordPress</strong></a>. If you need another release, follow this link <a href="http://WordPress.org/download/release-archive/" target="_blank"><strong>WordPress versions archive</strong></a>.				</li>
+				<li>You can download the WordPress platform at the official WordPress.org website: <a href="http://WordPress.org/download/" target="_blank"><strong>Download WordPress</strong></a>. If you need another release, follow this link <a href="http://WordPress.org/download/release-archive/" target="_blank"><strong>WordPress versions archive</strong></a>.				</li>
 				<li>Once the platform is downloaded, you'll need to unpack files. You can use any file archiver that support ZIP format to unpack the <strong>ZIP</strong> file.
 					<p>These tutorials will show you how to unpack archived file, if you have <a target="_blank" href="/help/unzipping-your-template.html"><strong>Windows OS (using WinZip)</strong></a> and if you have <a target="_blank" href="/help/how-unzip-template-mac.html"><strong>MAC OS (using StuffitExpander)</strong></a>.</p>
 					<ul class="list-2">
@@ -24,7 +24,7 @@
 						<li><i class="icon-info-sign"></i> <a target="_blank" href="/help/how-to-upload-files-to-a-server-using-cpanel-webhost-manager-whm.html">How to upload files to server using cPanel (WebHost Manager, WHM)</a> </li>
 					</ul>
 				</li>
-				<li>As the next step, you need to create a database for the WordPress platform.
+				<li>Next, you need to create a database for the WordPress platform.
 
 					<p>You can create it using the database management tool in the hosting cpanel (<em>usually it is PhpMyAdmin</em>).</p>
 
@@ -62,7 +62,7 @@
 						</ul>
 					</div>
 						<br>
-					<p>You can also take a look at this video tutorial - <a href="/help/how-to-create-a-database.html" target="_blank">How to create a database</a></p>
+					<p>You can also take a look at this video tutorial - <a href="/help/how-to-create-a-database.html" target="_blank">How to create a database</a>.</p>
 			 <br />
 					<div class="box-notification"><span>If you face any difficulties while creating the database, contact your hosting provider for tech support.</span></div>
 
@@ -93,12 +93,12 @@
 						<figure class="img-polaroid"><img src="img/WordPress/wp-install-6-b.jpg" alt="Inserting website details."></figure>
 						<p class="muted text-center"></p>
 				</li>
-				<li>Click "Install WordPress".
+				<li>Click "Install WordPress."
 
 						<figure class="img-polaroid"><img src="img/WordPress/wp-install-7-b.jpg" alt="Install WordPress button."></figure>
 						<p class="muted text-center"></p>
 
-					<p>If you have entered correct details, you will see a message about successful installation and  the WordPress dashboard access button.</p>
+					<p>If you have entered the correct details, you will see a message about successful installation and  the WordPress dashboard access button.</p>
 				</li>
 			</ol>
 			<p>You can also take a look at these video tutorials:</p>
