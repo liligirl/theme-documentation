@@ -1,7 +1,7 @@
 		<!-- Options Color themes -->
 		<article id="option-color-schemes">
 			<h3>Color themes</h3>
-			<p>Changes colors for various theme elements like forms, typography elements, blocks with default styling etc.</p>
+			<p>Changes colors for various theme elements like forms, typography elements, blocks with default styling, etc.</p>
 			<div class="row-fluid">
 				<div class="span6">
 					<figure class="img-polaroid">
@@ -44,13 +44,13 @@
 
 						<dt>Primary gray color</dt>
 						<dd>
-							<p>Select main gray color hue. Additional colors will be created automatically: </p>
+							<p>Select the main gray color hue. Additional colors will be created automatically: </p>
 
 							<ul>
 								<li>gray-darker: darken(20%)</li>
 								<li>gray-dark: darken(15%)</li>
 								<li>gray-light: lighten(15%)</li>
-								<li>gray-lighter: lighten(20%)</li>
+								<li>gray-lighter: lighten(20%).</li>
 							</ul>
 						</dd>
 					</dl>

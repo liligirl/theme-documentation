@@ -1,7 +1,7 @@
 		<!-- Options General -->
 		<article id="option-general">
 			<h3>General</h3>
-			<p>General section contains global Cherry Framework configuration settings.</p>
+			<p>The General section contains global Cherry Framework configuration settings.</p>
 
 			<div class="row-fluid">
 				<div class="span6">
@@ -14,16 +14,16 @@
 				<div class="span6">
 					<dl>
 						<dt>Favicon image.</dt>
-						<dd><p>Icon image that is displayed in the browser address bar and browser tab heading. Max icon (.ico) size 32x32 px. You also upload favicon for retina displays. Max retina icon size: 152x152 px.</p></dd>
+						<dd><p>Icon image that is displayed in the browser address bar and browser tab heading. Max icon (.ico) size is 32x32 px. You can also upload favicon for retina displays. Max retina icon size: 152x152 px.</p></dd>
 
 						<dt>Maintenance mode</dt>
 						<dd>
-							<p>Enable/disable maintenance mode. Logged in administrator gets full access to the site, while regular visitors will be redirected to the page chosen below. You can also preview the maintenance page without enabling maintenance mode. </p>
+							<p>Enable/disable maintenance mode. Logged in administrator gets full access to the site while regular visitors will be redirected to the page chosen below. You can also preview the maintenance page without enabling maintenance mode. </p>
 						</dd>
 
 						<dt>Maintenance page</dt>
 						<dd>
-							<p>Select a page that regular visitors will see if maintenance mode is enabled. You can select any Wordpress page here including your custom ones. </p>
+							<p>Select a page that regular visitors will see if maintenance mode is enabled. You can select any WordPress page here including your custom ones. </p>
 						</dd>
 
 						<dt>Document smooth scroll</dt>

@@ -13,12 +13,12 @@
 					<dl>
 						<dt>Concatenate/minify CSS</dt>
 						<dd>
-							<p>Select if you want to merge minify CSS files for performance optimization.</p>
+							<p>Select if you want to merge or minify CSS files for performance optimization.</p>
 						</dd>
 
 						<dt>Dynamic CSS output</dt>
 						<dd>
-							<p>Output dynamic CSS into separate file or into style tag.</p>
+							<p>Output dynamic CSS into a separate file or into style tag.</p>
 						</dd>
 					</dl>
 				</div>

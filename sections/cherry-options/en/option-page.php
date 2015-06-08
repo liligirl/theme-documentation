@@ -11,19 +11,19 @@
 				<div class="span6">
 					<dl>
 						<dt>Background</dt>
-						<dd><p>Page background settings. You can select background color, upload footer background image, set its background position, attachment and repeat.</p></dd>
+						<dd><p>Page background settings. You can select background color, upload page background image, set its background position, attachment and repeat.</p></dd>
 
 						<dt>Grid type</dt>
-						<dd><p>Select layout pattern for main website container. Wide layout will fit window width. Boxed layout will have fixed width and left/right indents.</p></dd>
+						<dd><p>Select the layout pattern for the main website container. Wide layout will fit window width. Boxed layout will have fixed width and left/right indents.</p></dd>
 
 						<dt>Boxed width</dt>
-						<dd><p>Header section width if boxed layout is active. Should not be more than Grid -> Container width value.</p></dd>
+						<dd><p>Header section width if boxed layout is active. Should not be more than the Grid -> Container width value.</p></dd>
 
 						<dt>Featured Images</dt>
 						<dd><p>Enable/disable featured images for pages.</p></dd>
 
 						<dt>Page comments</dt>
-						<dd><p>Enable/disable comments by default for pages. For pages that have already been published you need to enable comments individually in page settings.</p></dd>
+						<dd><p>Enable/disable comments by default for pages. For pages that have already been published, you need to enable comments individually in page settings.</p></dd>
 					</dl>
 				</div>
 			</div>

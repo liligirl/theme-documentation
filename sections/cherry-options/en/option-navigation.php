@@ -1,8 +1,7 @@
 		<!-- Options Navigation -->
 		<article id="option-navigation">
 			<h3>Navigation</h3>
-			<p>Define website navigation settings. Menus typography and colors, pagination and breadcrumbs settings
-			. </p>
+			<p>Define website navigation settings. Menus typography and colors, pagination and breadcrumbs settings. </p>
 			<div class="row-fluid">
 				<div class="span6">
 					<figure class="img-polaroid">
@@ -15,12 +14,12 @@
 					<dl>
 						<dt>Header Menu Typography</dt>
 						<dd>
-							<p>Main header navigation typography settings. You can configure menu font and color.</p>
+							<p>The main header navigation typography settings. You can configure menu font and color.</p>
 						</dd>
 
 						<dt>Footer Menu Typography</dt>
 						<dd>
-							<p>Main footer navigation typography settings. You can configure menu font and color.</p>
+							<p>The main footer navigation typography settings. You can configure menu font and color.</p>
 						</dd>
 						<dt>Arrows markup</dt>
 						<dd>

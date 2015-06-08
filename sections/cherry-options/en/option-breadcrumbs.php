@@ -28,18 +28,18 @@
 
 						<dt>Home page breadcrumbs</dt>
 						<dd>
-							<p>Enable/disable breadcrumbs on home page.</p>
+							<p>Enable/disable breadcrumbs on the home page.</p>
 						</dd>
 
 
 						<dt>Item separator</dt>
 						<dd>
-							<p>Breadcrumbs separator symbol.</p>
+							<p>The breadcrumbs separator symbol.</p>
 						</dd>
 
 						<dt>Breadcrumbs prefix</dt>
 						<dd>
-							<p>Text displayed before breadcrumbs navigation.</p>
+							<p>Text displayed before the breadcrumbs navigation.</p>
 						</dd>
 					</dl>
 				</div>

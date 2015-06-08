@@ -1,7 +1,7 @@
 		<!-- Options Grid -->
 		<article id="option-grid">
 			<h3>Grid</h3>
-			<p>Section contains global layout configuration settings. </p>
+			<p>This section contains global layout configuration settings. </p>
 
 			<div class="row-fluid">
 				<div class="span6">
@@ -15,17 +15,17 @@
 					<dl>
 						<dt>Responsive grid</dt>
 						<dd>
-							<p>Enable/disable responsive grid. If for any reason you want to disable responsive layout for your site, you are able to turn it off here.', 'cherry</p>
+							<p>Enable/disable responsive grid. If for any reason you want to disable responsive layout for your site, you are able to turn it off here.</p>
 						</dd>
 
 						<dt>Layout</dt>
 						<dd>
-							<p>Select blog page layout. You can choose if you want to display sidebars and how you want to display them.</p>
+							<p>Select the blog page layout. You can choose if you want to display sidebars and how you want to display them.</p>
 						</dd>
 
 						<dt>Container width</dt>
 						<dd>
-							<p>Width of main website container in pixels.</p>
+							<p>The width of main website container in pixels.</p>
 						</dd>
 					</dl>
 				</div>

@@ -1,7 +1,7 @@
 		<!-- Options Typography -->
 		<article id="option-typography">
 			<h3>Typography</h3>
-			<p>Theme typography settings. You can configure all aspects of website typography, fonts, colors etc.</p>
+			<p>Theme typography settings. You can configure all aspects of website typography, fonts, colors, etc.</p>
 
 			<div class="row-fluid">
 				<div class="span6">
@@ -30,12 +30,12 @@
 
 						<dt>Input text</dt>
 						<dd>
-							<p>Styling text in forms.</p>
+							<p>Styling of the text in forms.</p>
 						</dd>
 
 						<dt>Breadcrumbs typography</dt>
 						<dd>
-							<p>Styling text in breadcrumbs.</p>
+							<p>Styling of the text in breadcrumbs.</p>
 						</dd>
 
 						<dt>Heading 1</dt>

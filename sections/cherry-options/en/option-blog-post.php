@@ -13,7 +13,7 @@
 					<dl>
 						<dt>Featured Image</dt>
 						<dd>
-							<p>Display featured image at the single post page.</p>
+							<p>Display featured image on the single post page.</p>
 						</dd>
 
 						<dt>Featured Image Size</dt>
@@ -28,27 +28,27 @@
 
 						<dt>Author Bio</dt>
 						<dd>
-							<p>Enable/disable author bio block. Author bio block is displayed on the post page.</p>
+							<p>Enable/disable the author bio block. Author bio block is displayed on the post page.</p>
 						</dd>
 
 						<dt>Related posts</dt>
 						<dd>
-							<p>Enable/disable related posts block. Related posts block is displayed at the post page.</p>
+							<p>Enable/disable the related posts block. Related posts block is displayed on the post page.</p>
 						</dd>
 
 						<dt>Allow Comments</dt>
 						<dd>
-							<p>Enable/disable comments for blog posts. Make sure comments are enabled in Wordpress \'settings->discussion\'. For posts that have already been published you need to enable comments individually in post settings.</p>
+							<p>Enable/disable comments for blog posts. Make sure comments are enabled in WordPress \'settings->discussion\'. For posts that have already been published you need to enable comments individually in post settings.</p>
 						</dd>
 
 						<dt>Gallery Slider</dt>
 						<dd>
-							<p>Replace default Wordpress gallery shortcode with enhanced jQuery carousel.</p>
+							<p>Replace the default WordPress gallery shortcode with enhanced jQuery carousel.</p>
 						</dd>
 
 						<dt>Lightbox for images and videos</dt>
 						<dd>
-							<p>Adds lightbox for images and videos.</p>
+							<p>Adds a lightbox for images and videos.</p>
 						</dd>
 					</dl>
 				</div>

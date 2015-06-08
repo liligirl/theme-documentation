@@ -1,7 +1,7 @@
 		<!-- Options Blog -->
 		<article id="option-blog">
 			<h3>Blog</h3>
-			<p>Section contains settings for Wordpress blog pages (listing, single post, post types).</p>
+			<p>The section contains settings for WordPress blog pages (listing and single post post types).</p>
 			<div class="row-fluid">
 				<div class="span6">
 					<figure class="img-polaroid">
@@ -14,12 +14,12 @@
 					<dl>
 						<dt>Featured Media</dt>
 						<dd>
-							<p>Displays Featured Image, Gallery, Audio, Video in blog posts listing depending on post type.</p>
+							<p>Displays Featured Image, Gallery, Audio, Video in blog post listing depending on post type.</p>
 						</dd>
 
 						<dt>Featured Image Size</dt>
 						<dd>
-							<p>Set dimensions for post featured images in pixels.</p>
+							<p>Set dimensions for post featured image in pixels.</p>
 						</dd>
 
 						<dt>Featured Image Alignment</dt>
@@ -29,22 +29,22 @@
 
 						<dt>Post content</dt>
 						<dd>
-							<p>Select how you want to display post content in your blog listing: full - display fill post content, part - display part of the post (you can specify post part size below), none - hide post content.</p>
+							<p>Select how you want to display post content in your blog listing: full - display full post content, part - display part of the post (you can specify the post part size below), none - hide post content.</p>
 						</dd>
 
 						<dt>Excerpt length</dt>
 						<dd>
-							<p>Specify number of words displayed as post part in blog listing.</p>
+							<p>Specify the number of words displayed as post part in blog listing.</p>
 						</dd>
 
 						<dt>More button</dt>
 						<dd>
-							<p>Enable/Disable "read more" button in blog listing.</p>
+							<p>Enable/Disable the "read more" button in blog listing.</p>
 						</dd>
 
 						<dt>More button label</dt>
 						<dd>
-							<p>Specify "read more" button label text.</p>
+							<p>Specify the "read more" button label text.</p>
 						</dd>
 					</dl>
 				</div>

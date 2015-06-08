@@ -23,7 +23,7 @@
 
 						<dt>Pagination label</dt>
 						<dd>
-							<p>Pagination label. Displayed before pagination buttons. Text or HTML can be used.</p>
+							<p>Pagination label is displayed before pagination buttons. Text or HTML can be used.</p>
 						</dd>
 
 						<dt>Prev button label</dt>
@@ -38,7 +38,7 @@
 
 						<dt>Show all the pages</dt>
 						<dd>
-							<p>If set to On, then it will show all of the pages instead of a short list of the pages near the current page.</p>
+							<p>If set to On, it will show all of the pages instead of a short list of pages near the current page.</p>
 						</dd>
 
 						<dt>End size</dt>
@@ -48,7 +48,7 @@
 
 						<dt>Mid size</dt>
 						<dd>
-							<p>How many numbers to display to either side of the current page, but not including current page.</p>
+							<p>How many numbers to display to either side of the current page, but not including the current page.</p>
 						</dd>
 					</dl>
 				</div>
