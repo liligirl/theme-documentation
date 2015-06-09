@@ -1,6 +1,6 @@
 <article id="sidebar-manager">
 	<h3>Custom Sidebars</h3>
-	<p>Plugin is used to create custom sidebars with specified set of widgets.</p>
+	<p>The plugin is used to create custom sidebars with specific sets of widgets.</p>
 	<div class="row">
 		<div class="grid_4">
 		<figure class="img-polaroid">
@@ -17,7 +17,7 @@
 			</figure>
 		</div>
 	</div>
-	<p>To add new sidebar do to <b>Appearance > Widgets</b> section and click <strong>Create a new sidebar</strong> button.</p>
+	<p>To add a new sidebar, go to the <b>Appearance > Widgets</b> section and click <strong>Create a new sidebar</strong>.</p>
 	<div class="row">
 		<div class="grid_12">
 			<figure class="img-polaroid">
@@ -51,7 +51,7 @@
 		</div>
 	</div>
 
-	<p>You can arrange your widgets set in your sidebar now adding new ones, changing widgets order and removing unused. </p>
+	<p>You can arrange your widgets set in your sidebar now by adding new ones, changing the order of widgets and removing unused ones. </p>
 
 	<h4>Post/Page plugin settings</h4>
 
@@ -64,11 +64,11 @@
 			</figure>
 		</div>
 		<div class="grid_6">
-		<p>When Sidebar Manager plugin is active, at the post and page editing screens you will see the following options:</p>
+		<p>When the Sidebar Manager plugin is active, you will see the following options on the post and page editing screens:</p>
 			<ul>
-				<li><b>Main Sidebar</b> - List of available main sidebars</li>
-				<li><b>Secondary Sidebars</b> - List of available secondary sidebars</li>
-				<li><b>Widgets page</b> - Widgets editing screen</li>
+				<li><b>Main Sidebar</b> - list of available main sidebars</li>
+				<li><b>Secondary Sidebars</b> - list of available secondary sidebars</li>
+				<li><b>Widgets page</b> - widgets editing screen.</li>
 			</ul>
 		</div>
 	</div>
