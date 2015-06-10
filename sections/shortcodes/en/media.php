@@ -46,9 +46,9 @@
 						<li><i class="fa fa-angle-right"></i> <strong>linked title:</strong> - linked title description</li>
 						<li><i class="fa fa-angle-right"></i> <strong>linked featured image:</strong> - linked featured image description</li>
 						<li><i class="fa fa-angle-right"></i> <strong>post content:</strong> - post content value</li>
-						<li><i class="fa fa-angle-right"></i> <strong>Content Length:</strong> - number of words per displayed posts</li>
+						<li><i class="fa fa-angle-right"></i> <strong>Content Length:</strong> - number of words in displayed posts</li>
 						<li><i class="fa fa-angle-right"></i> <strong>button text:</strong> - button text</li>
-						<li><i class="fa fa-angle-right"></i> <strong>using cropped image:</strong> - used / not use cropped images</li>
+						<li><i class="fa fa-angle-right"></i> <strong>using cropped image:</strong> - use / not use cropped images</li>
 						<li><i class="fa fa-angle-right"></i> <strong>cropping image width:</strong> - cropped image width</li>
 						<li><i class="fa fa-angle-right"></i> <strong>cropping image height:</strong> - cropped image height</li>
 						<li><i class="fa fa-angle-right"></i> <strong>number slides per view:</strong> - number of slides displayed per view</li>
@@ -57,7 +57,7 @@
 						<li><i class="fa fa-angle-right"></i> <strong>duration of transition:</strong> - slides transition duration value</li>
 						<li><i class="fa fa-angle-right"></i> <strong>slider Infinite Loop:</strong> - enable/disable infinite loop</li>
 						<li><i class="fa fa-angle-right"></i> <strong>free Mode sliding:</strong> - enable/disable slides fixed position</li>
-						<li><i class="fa fa-angle-right"></i> <strong>grab Cusor:</strong> - enable/disable grab cursor for slider</li>
+						<li><i class="fa fa-angle-right"></i> <strong>grab Cursor:</strong> - enable/disable grab cursor for slider</li>
 						<li><i class="fa fa-angle-right"></i> <strong>mousewheel Control:</strong> - enable/disable mousewheel control mode</li>
 						<li><i class="fa fa-angle-right"></i> <strong>centered Slides:</strong> - enable/disable slides alignment</li>
 						<li><i class="fa fa-angle-right"></i> <strong>effect Layout:</strong> - slides transition effect</li>
@@ -79,29 +79,29 @@
 				<p>Displays image with parallax effect</p>
 				<ul>
 					<li><i class="fa fa-angle-right"></i> <strong>parallax image:</strong> - parallax image</li>
-					<li><i class="fa fa-angle-right"></i> <strong>paralax speed:</strong> - parallax speed</li>
+					<li><i class="fa fa-angle-right"></i> <strong>parallax speed:</strong> - parallax speed</li>
 					<li><i class="fa fa-angle-right"></i> <strong>banner url:</strong> - image URL</li>
-					<li><i class="fa fa-angle-right"></i> <strong>paralax invert:</strong> - enable/disable parallax inversion</li>
+					<li><i class="fa fa-angle-right"></i> <strong>parallax invert:</strong> - enable/disable parallax inversion</li>
 					<li><i class="fa fa-angle-right"></i> <strong>class:</strong> - shortcode custom class</li>
 				</ul>
 				</div>
 			</div>
 
-			<h4>Paralax html video</h4>
+			<h4>Parallax HTML video</h4>
 			<figure class="img-polaroid"><img alt="" src="img/wordpress/shortcode_parallax_html_video.png"></figure>
 			<div class="row">
 				<div class="grid_5">
 					<pre class="prettyprint prettyprinted" style=""><span class="pun">[</span><span class="pln">su_paralax_html_video poster</span><span class="pun">=</span><span class="str">"http://192.168.9.26/cherry/wp-content/uploads/2015/05/gator-hater.jpg"</span><span class="pln"> mp4</span><span class="pun">=</span><span class="str">"http://192.168.9.26/cherry/wp-content/uploads/2015/04/video1.m4v"</span><span class="pln"> webm</span><span class="pun">=</span><span class="str">"http://192.168.9.26/cherry/wp-content/uploads/2015/04/video3.flv"</span><span class="pln"> ogv</span><span class="pun">=</span><span class="str">"http://192.168.9.26/cherry/wp-content/uploads/2015/04/video2.ogv"</span><span class="pln"> speed</span><span class="pun">=</span><span class="str">"2.5"</span><span class="pln"> invert</span><span class="pun">=</span><span class="str">"yes"</span><span class="pln"> class</span><span class="pun">=</span><span class="str">"custom-class"</span><span class="pun">]</span></pre>
 				</div>
 				<div class="grid_7">
-				<p>Displays video with parallax effect</p>
+				<p>Displays video with the parallax effect</p>
 				<ul>
 					<li><i class="fa fa-angle-right"></i> <strong>poster:</strong> - poster image (use media manager to add image)</li>
 					<li><i class="fa fa-angle-right"></i> <strong>mp4 file:</strong> - mp4 file (use media manager to add mp4 file)</li>
 					<li><i class="fa fa-angle-right"></i> <strong>webm file:</strong> - webm file (use media manager to add webm file)</li>
 					<li><i class="fa fa-angle-right"></i> <strong>ogv file:</strong> - ogv file (use media manager to add ogv file)</li>
-					<li><i class="fa fa-angle-right"></i> <strong>paralax speed:</strong> - parallax speed</li>
-					<li><i class="fa fa-angle-right"></i> <strong>paralax invert:</strong> - enable/disable parallax inversion</li>
+					<li><i class="fa fa-angle-right"></i> <strong>parallax speed:</strong> - parallax speed</li>
+					<li><i class="fa fa-angle-right"></i> <strong>parallax invert:</strong> - enable/disable parallax inversion</li>
 					<li><i class="fa fa-angle-right"></i> <strong>class:</strong> - shortcode custom class</li>
 				</ul>
 				</div>

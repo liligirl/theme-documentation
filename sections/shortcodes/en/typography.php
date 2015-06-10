@@ -10,7 +10,7 @@
 
 				<div class="grid_7">
 					<ul>
-						<li><i class="fa fa-angle-right"></i> <strong>icon:</strong> - filed to add an icon, icon can be added through media manager and icon picker </li>
+						<li><i class="fa fa-angle-right"></i> <strong>icon:</strong> - the field to add an icon through the media manager or icon picker </li>
 						<li><i class="fa fa-angle-right"></i> <strong>icon size:</strong> - icon size (can be used with text icons only)</li>
 						<li><i class="fa fa-angle-right"></i> <strong>icon color:</strong> - icon color</li>
 						<li><i class="fa fa-angle-right"></i> <strong>class:</strong> - shortcode custom class</li>
@@ -37,7 +37,7 @@
 			</div>
 
 			<h4>Title Box</h4>
-			<p>Displays double title: main and secondary titles of the text</p>
+			<p>Displays double title: the main and secondary titles of the text</p>
 			<figure class="img-polaroid"><img alt="" src="img/wordpress/shortcode_hr.png"></figure>
 			<div class="row">
 				<div class="grid_5">
@@ -47,7 +47,7 @@
 					<ul>
 					<li><i class="fa fa-angle-right"></i> <strong>title:</strong> - title content </li>
 					<li><i class="fa fa-angle-right"></i> <strong>subtitle:</strong> - subtitle content</li>
-					<li><i class="fa fa-angle-right"></i> <strong>icon:</strong> - filed to add an icon, icon can be added through media manager and icon picker </li>
+					<li><i class="fa fa-angle-right"></i> <strong>icon:</strong> -  the field to add an icon, the icon can be added through the media manager and icon picker </li>
 					<li><i class="fa fa-angle-right"></i> <strong>icon size:</strong> - icon size (can be used with text icons only)</li>
 					<li><i class="fa fa-angle-right"></i> <strong>icon color:</strong> - icon color</li>
 					<li><i class="fa fa-angle-right"></i> <strong>title color:</strong> - title color</li>
@@ -68,7 +68,7 @@
 					<ul>
 					<li><i class="fa fa-angle-right"></i> <strong>Text size:</strong> - text size</li>
 					<li><i class="fa fa-angle-right"></i> <strong>text color:</strong> - text color</li>
-					<li><i class="fa fa-angle-right"></i> <strong>background Color:</strong> - text font color</li>
+					<li><i class="fa fa-angle-right"></i> <strong>background color:</strong> - text font color</li>
 					<li><i class="fa fa-angle-right"></i> <strong>align:</strong> - align settings</li>
 					<li><i class="fa fa-angle-right"></i> <strong>shape:</strong> - shape settings </li>
 					<li><i class="fa fa-angle-right"></i> <strong>border:</strong> - set of options (width, style and color) to create a border</li>
@@ -93,15 +93,15 @@
 						<li><i class="fa fa-angle-right"></i> <strong>border radius:</strong> - radius of button rounded corners</li>
 						<li><i class="fa fa-angle-right"></i> <strong>centered:</strong> - button alignment</li>
 						<li><i class="fa fa-angle-right"></i> <strong>fluid:</strong> - responsive setting</li>
-						<li><i class="fa fa-angle-right"></i> <strong>fluid Position:</strong> - button alignment in responsive layouts</li>
-						<li><i class="fa fa-angle-right"></i> <strong>icon:</strong> - filed to add an icon, icon can be added through media manager and icon picker</li>
-						<li><i class="fa fa-angle-right"></i> <strong>icon Position:</strong> - position of icon relative to button</li>
+						<li><i class="fa fa-angle-right"></i> <strong>fluid position:</strong> - button alignment in responsive layouts</li>
+						<li><i class="fa fa-angle-right"></i> <strong>icon:</strong> - the field to add an icon through the media manager or icon picker</li>
+						<li><i class="fa fa-angle-right"></i> <strong>icon position:</strong> - position of icon relative to button</li>
 						<li><i class="fa fa-angle-right"></i> <strong>description:</strong> - short text description under the button</li>
 						<li><i class="fa fa-angle-right"></i> <strong>background:</strong> - button background color</li>
 						<li><i class="fa fa-angle-right"></i> <strong>text color:</strong> - button text color</li>
 						<li><i class="fa fa-angle-right"></i> <strong>min width:</strong> - minimum button width</li>
-						<li><i class="fa fa-angle-right"></i> <strong>target:</strong> - defines whether button link will be open in the new or in the parent window (tab)</li>
-						<li><i class="fa fa-angle-right"></i> <strong>rel attribute:</strong> - rel attribute defines connection between current document and linked document defined by the href attribute</li>
+						<li><i class="fa fa-angle-right"></i> <strong>target:</strong> - defines whether button link will open in the new or in the parent window (tab)</li>
+						<li><i class="fa fa-angle-right"></i> <strong>rel attribute:</strong> - defines connection between current document and linked document defined by the "href" attribute</li>
 						<li><i class="fa fa-angle-right"></i> <strong>hover animation:</strong> - hover animation type</li>
 						<li><i class="fa fa-angle-right"></i> <strong>class:</strong> - shortcode custom class</li>
 					</ul>

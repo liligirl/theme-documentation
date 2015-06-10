@@ -2,7 +2,7 @@
 			<h3>Content</h3>
 
 			<h4>Post grid</strong></h4>
-			<p>Displays posts content with possibility of sorting and additional settngs</p>
+			<p>Displays posts content with possibility of sorting and additional settings.</p>
 			<figure class="img-polaroid"><img alt="" src="img/wordpress/shortcode_post.png"></figure>
 			<div class="row">
 				<div class="grid_5">
@@ -15,7 +15,7 @@
 						<li><i class="fa fa-angle-right"></i> <strong>Post types:</strong> - type of displayed posts (multiple choice)</li>
 						<li><i class="fa fa-angle-right"></i> <strong>Taxonomy:</strong> - taxonomy</li>
 						<li><i class="fa fa-angle-right"></i> <strong>Terms:</strong> - terms to show posts from</li>
-						<li><i class="fa fa-angle-right"></i> <strong>Taxonomy term operator:</strong> - taxonomy term operator has 3 values NOT, NOT IN, AND</li>
+						<li><i class="fa fa-angle-right"></i> <strong>Taxonomy term operator:</strong> - taxonomy term operator has 3 values: NOT, NOT IN, AND</li>
 						<li><i class="fa fa-angle-right"></i> <strong>Authors:</strong> - coma-separated list of authors</li>
 						<li><i class="fa fa-angle-right"></i> <strong>Offset:</strong> - indent value</li>
 						<li><i class="fa fa-angle-right"></i> <strong>Order:</strong> - ascending/descending order</li>
@@ -28,7 +28,7 @@
 						<li><i class="fa fa-angle-right"></i> <strong>Linked title:</strong> - linked title description</li>
 						<li><i class="fa fa-angle-right"></i> <strong>Linked featured image:</strong> - linked featured image description</li>
 						<li><i class="fa fa-angle-right"></i> <strong>Post content:</strong> - post content value</li>
-						<li><i class="fa fa-angle-right"></i> <strong>Content Length:</strong> - number of words per displayed posts</li>
+						<li><i class="fa fa-angle-right"></i> <strong>Content Length:</strong> - number of words in displayed posts</li>
 						<li><i class="fa fa-angle-right"></i> <strong>Button text:</strong> - button text</li>
 
 						<li><i class="fa fa-angle-right"></i> <strong>Column class:</strong> - container size settings with possibility to set size for different resolutions</li>

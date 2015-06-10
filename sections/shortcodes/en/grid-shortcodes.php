@@ -8,7 +8,7 @@
 				<div class="grid_6"><pre class="prettyprint prettyprinted" style=""><span class="pun">[</span><span class="pln">su_row type</span><span class="pun">=</span><span class="str">"fixed-width"</span><span class="pln"> class</span><span class="pun">=</span><span class="str">"custom_class"</span><span class="pun">]</span><span class="pun">[</span><span class="pln">/su_row</span><span class="pun">]</span></pre></div>
 
 
-				<div class="grid_6"><p><span class="label">Description:</span> when forming a grid, you should "wrap" grid elements into [row] shortcode that has 2 additional settings, they are container type and custom class.</p></div>
+				<div class="grid_6"><p><span class="label">Description:</span> when forming a grid, you should "wrap" grid elements into the [row] shortcode that has 2 additional settings - container type and custom class.</p></div>
 			</div>
 
 			<h5>Row Inner</h5>
@@ -19,7 +19,7 @@
 				</div>
 
 
-				<div class="grid_7"><p><span class="label">Description:</span> when creating an additional nesting of rows, you should "wrap" its elements into [su_row_inner] shortcode that has two additional settings, they are container type and custom class.</p></div>
+				<div class="grid_7"><p><span class="label">Description:</span> when creating an additional nesting of rows, you should "wrap" its elements into the [su_row_inner] shortcode that has two additional settings, they are container type and custom class.</p></div>
 			</div>
 
 			<h4>Column</h4>
@@ -65,7 +65,7 @@
 				<div class="grid_6"><pre class="prettyprint prettyprinted" style=""><span class="pun">[</span><span class="pln">su_spacer size</span><span class="pun">=</span><span class="str">"30"</span><span class="pln"> class</span><span class="pun">=</span><span class="str">"custom_class"</span><span class="pun">]</span></pre></div>
 
 
-				<div class="grid_6"><p><span class="label">Description:</span> can be used in case you need vertical indent between blocks. Can be added in the visual editor with the help of the [su_spacer] shortcode and has next settings:</p>
+				<div class="grid_6"><p><span class="label">Description:</span> can be used in case you need vertical indent between blocks. Can be added in the visual editor with the help of the [su_spacer] shortcode and has the next settings:</p>
 				<ul>
 					<li><i class="fa fa-angle-right"></i> <strong>size:</strong> - spacer hight</li>
 					<li><i class="fa fa-angle-right"></i> <strong>class:</strong> - shortcode custom class</li>

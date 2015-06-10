@@ -14,7 +14,7 @@
 					<li><i class="fa fa-angle-right"></i> <strong>disabled:</strong> - enable/disable tab</li>
 					<li><i class="fa fa-angle-right"></i> <strong>anchor:</strong> - unique tab anchor</li>
 					<li><i class="fa fa-angle-right"></i> <strong>url:</strong> - tab URL</li>
-					<li><i class="fa fa-angle-right"></i> <strong>link target:</strong> - defines whether link will be open in the new or in the parent window (tab)</li>
+					<li><i class="fa fa-angle-right"></i> <strong>link target:</strong> - defines whether link will be opened in the new or in the parent window (tab)</li>
 					<li><i class="fa fa-angle-right"></i> <strong>class:</strong> - shortcode custom class</li>
 				</ul>
 				</div>
@@ -88,7 +88,7 @@
 					<li><i class="fa fa-angle-right"></i> <strong>opacity:</strong> - element opacity value (min - 0; max 1;)</li>
 					<li><i class="fa fa-angle-right"></i> <strong>easing:</strong> - animation easing effect</li>
 					<li><i class="fa fa-angle-right"></i> <strong>animation speed:</strong> - animation speed in seconds</li>
-					<li><i class="fa fa-angle-right"></i> <strong>animation delay:</strong> - delay before next element appears (can be used in case you have 22-3 elements in a row and you want to animate them one by one)</li>
+					<li><i class="fa fa-angle-right"></i> <strong>animation delay:</strong> - delay before the next element appears (can be used in case you have 2-3 elements in a row and you want to animate them one by one)</li>
 					<li><i class="fa fa-angle-right"></i> <strong>custom_class:</strong> - shortcode custom class</li>
 				</ul>
 				</div>
